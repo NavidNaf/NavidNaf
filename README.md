@@ -20,7 +20,7 @@ I am pursuing a [Ph.D. in Computer Science (Specialization Security)](https://cs
 - research internships (open for Summer 2026). I could legally work in United States, Bangladesh & Remote.
 
 📫 **Contact me by**:
-- Email (navidfazlerabbi [AT] iut-dhaka.edu)
+- Email (navidfazlerabbi [AT] iut-dhaka.edu)(navid [AT] cs.unc.edu)
 - [LinkedIn](https://www.linkedin.com/in/navid-f-rabbi/)
 
 ----
