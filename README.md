@@ -24,10 +24,10 @@ I am pursuing a [Ph.D. in Computer Science (Specialization Security)](https://cs
 - [LinkedIn](https://www.linkedin.com/in/navid-f-rabbi/)
 
 ----
-
-[![NavidNafs's github stats](https://github-readme-stats.vercel.app/api?username=NavidNaf&theme=radicatl&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NavidNaf&theme=radical&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Profile Views](https://komarev.com/ghpvc/?username=NavidNaf)
+[![NavidNafs's github stats](https://github-readme-stats.vercel.app/api?username=NavidNaf&theme=radical&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NavidNaf&theme=radical&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **NavidNaf/NavidNaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
