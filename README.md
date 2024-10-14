@@ -25,6 +25,7 @@ I am pursuing a [Ph.D. in Computer Science (Specialization Security)](https://cs
 
 ----
 ![Profile Views](https://komarev.com/ghpvc/?username=NavidNaf)
+
 [![NavidNafs's github stats](https://github-readme-stats.vercel.app/api?username=NavidNaf&theme=radical&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NavidNaf&theme=radical&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
